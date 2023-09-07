@@ -142,7 +142,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     TextButton(
                       onPressed: () {
                         setState(() {
-                          _scoreB += 2;
+                          _scoreB += 20000000;
                         });
                       },
                      style: TextButton.styleFrom(
